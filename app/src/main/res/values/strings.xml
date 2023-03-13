@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Car Pool</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="description">Car pool brings you the opportunity to share your ride with friends, colleagues and environmentally conscious people around your office or home on your daily commute and makes it easy to share empty seats in your car.
+As a driver, you can share your car with people who are travelling in the same route as you.In this way you can split the travelling cost just by sharing your empty seats.
+As a passenger, you will enjoy a comfortable and safe trip while avoiding crowded public transport, switching between many options and standing in never-ending lines.
+So,what are you waiting for?
+Turn your boring daily commute into an affordable social experience,reduce traffic and help the environment! Share rides and save fuel!
+</string>
+    <string-array name="names">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
